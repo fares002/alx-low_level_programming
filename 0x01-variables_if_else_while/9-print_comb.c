@@ -22,6 +22,6 @@ int main(void)
 		d++;
 
 	}
-	putchat('\n');
+	putchar('\n');
 	return (0);
 }
