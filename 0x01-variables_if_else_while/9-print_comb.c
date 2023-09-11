@@ -1,4 +1,4 @@
-#include<stdio.k>
+#include<stdio.h>
 /**
  * main - Entry point
  * Description: a program that prints all possible combinations of
