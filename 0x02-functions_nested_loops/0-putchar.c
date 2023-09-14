@@ -1,11 +1,10 @@
-#include<stdio.h>
+#include "main.h"
 /**
- * main -entry point
- * description:a programme that print _putchar steatment
+ * main - entery point
+ * description:programme thats print _putchar
  * return 0
  */
-char  main(void)
+int main(void)
 {
-	printf("_putchar\n");
-	return (0);
+return (0);
 }
