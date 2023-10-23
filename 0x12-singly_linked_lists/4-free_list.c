@@ -23,3 +23,4 @@ void free_list(list_t *head)
 		free(actual_node->str);
 		free(actual_node);
 	}
+}
