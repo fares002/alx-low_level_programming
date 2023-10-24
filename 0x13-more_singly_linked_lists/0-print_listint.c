@@ -1,6 +1,5 @@
 #include"lists.h"
 #include<stdio.h>
-
 /**
  * print_listint - function thats return the number of node.
  * @h: pointer to the list.
